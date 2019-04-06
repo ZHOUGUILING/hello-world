@@ -1,3 +1,3 @@
 # hello-world
-first learning session
+first learning session.
 I'm testing the branch.
